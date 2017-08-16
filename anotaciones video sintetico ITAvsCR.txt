@@ -1,0 +1,302 @@
+[
+  {
+    "initialFrame": 145,
+    "lastFrame": 159,
+    "eventType": "Long Dissolve",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 303,
+    "lastFrame": 303,
+    "eventType": "Cut",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 305,
+    "lastFrame": 328,
+    "eventType": "Fade-out",
+    "sceneType": "Far View"
+  },
+  {
+    "initialFrame": 452,
+    "lastFrame": 466,
+    "eventType": "Long Dissolve",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 602,
+    "lastFrame": 619,
+    "eventType": "Long Dissolve",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 762,
+    "lastFrame": 762,
+    "eventType": "Cut",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 921,
+    "lastFrame": 941,
+    "eventType": "Long Dissolve",
+    "sceneType": "Far View"
+  },
+  {
+    "initialFrame": 1073,
+    "lastFrame": 1073,
+    "eventType": "Cut",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 1073,
+    "lastFrame": 1095,
+    "eventType": "Fade-out",
+    "sceneType": "Replay"
+  },
+  {
+    "initialFrame": 1221,
+    "lastFrame": 1233,
+    "eventType": "Long Dissolve",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 1379,
+    "lastFrame": 1379,
+    "eventType": "Cut",
+    "sceneType": "Far View"
+  },
+  {
+    "initialFrame": 1531,
+    "lastFrame": 1545,
+    "eventType": "Long Dissolve",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 1676,
+    "lastFrame": 1676,
+    "eventType": "Cut",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 1837,
+    "lastFrame": 1848,
+    "eventType": "Long Dissolve",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 1959,
+    "lastFrame": 1978,
+    "eventType": "Fade-out",
+    "sceneType": "Far View"
+  },
+  {
+    "initialFrame": 1978,
+    "lastFrame": 1978,
+    "eventType": "Cut",
+    "sceneType": "Far View"
+  },
+  {
+    "initialFrame": 2141,
+    "lastFrame": 2155,
+    "eventType": "Long Dissolve",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 2295,
+    "lastFrame": 2295,
+    "eventType": "Cut",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 2295,
+    "lastFrame": 2317,
+    "eventType": "Fade-out",
+    "sceneType": "Replay"
+  },
+  {
+    "initialFrame": 2448,
+    "lastFrame": 2461,
+    "eventType": "Long Dissolve",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 2602,
+    "lastFrame": 2602,
+    "eventType": "Cut",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 2755,
+    "lastFrame": 2771,
+    "eventType": "Long Dissolve",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 2922,
+    "lastFrame": 2935,
+    "eventType": "Long Dissolve",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 3043,
+    "lastFrame": 3066,
+    "eventType": "Fade-out",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 3080,
+    "lastFrame": 3080,
+    "eventType": "Cut",
+    "sceneType": "Far View"
+  },
+  {
+    "initialFrame": 3229,
+    "lastFrame": 3242,
+    "eventType": "Long Dissolve",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 3541,
+    "lastFrame": 3558,
+    "eventType": "Long Dissolve",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 3701,
+    "lastFrame": 3701,
+    "eventType": "Cut",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 3836,
+    "lastFrame": 3852,
+    "eventType": "Long Dissolve",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 4011,
+    "lastFrame": 4016,
+    "eventType": "Fade-out",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 4016,
+    "lastFrame": 4016,
+    "eventType": "Cut",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 4155,
+    "lastFrame": 4169,
+    "eventType": "Long Dissolve",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 4326,
+    "lastFrame": 4340,
+    "eventType": "Long Dissolve",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 4476,
+    "lastFrame": 4476,
+    "eventType": "Cut",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 4623,
+    "lastFrame": 4639,
+    "eventType": "Long Dissolve",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 4801,
+    "lastFrame": 4816,
+    "eventType": "Long Dissolve",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 4939,
+    "lastFrame": 4939,
+    "eventType": "Cut",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 5096,
+    "lastFrame": 5112,
+    "eventType": "Long Dissolve",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 5255,
+    "lastFrame": 5255,
+    "eventType": "Cut",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 5369,
+    "lastFrame": 5385,
+    "eventType": "Long Dissolve",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 5657,
+    "lastFrame": 5672,
+    "eventType": "Long Dissolve",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 5791,
+    "lastFrame": 5791,
+    "eventType": "Cut",
+    "sceneType": "Far View"
+  },
+  {
+    "initialFrame": 5940,
+    "lastFrame": 5954,
+    "eventType": "Long Dissolve",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 6113,
+    "lastFrame": 6127,
+    "eventType": "Long Dissolve",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 6380,
+    "lastFrame": 6395,
+    "eventType": "Long Dissolve",
+    "sceneType": "Replay"
+  },
+  {
+    "initialFrame": 6564,
+    "lastFrame": 6582,
+    "eventType": "Long Dissolve",
+    "sceneType": "Replay"
+  },
+  {
+    "initialFrame": 6747,
+    "lastFrame": 6762,
+    "eventType": "Long Dissolve",
+    "sceneType": "Replay"
+  },
+  {
+    "initialFrame": 6787,
+    "lastFrame": 6802,
+    "eventType": "Long Dissolve",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 6896,
+    "lastFrame": 6914,
+    "eventType": "Long Dissolve",
+    "sceneType": "Close up"
+  },
+  {
+    "initialFrame": 7086,
+    "lastFrame": 7104,
+    "eventType": "Long Dissolve",
+    "sceneType": "Close up"
+  }
+]
